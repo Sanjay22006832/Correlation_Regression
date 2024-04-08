@@ -1,6 +1,6 @@
                                    
-                                   NAME: M Sanjay
-                                   REG NO. 212222240090
+                                   NAME: P Balasudhan
+                                   REG NO. 212222240017
                                    
 # Ex3-Correlation and regression for data analysis
 ## Date:
